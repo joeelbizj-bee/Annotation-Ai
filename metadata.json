@@ -1,0 +1,5 @@
+{
+  "name": "AutoTag Annotator",
+  "description": "A professional image annotation tool with Gemini AI integration to search for images and assist with tagging. Features bounding box annotation, metadata management, and CSV export.",
+  "requestFramePermissions": []
+}
